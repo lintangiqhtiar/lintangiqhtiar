@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lintangiqhtiar
 - 👀 I’m interested in creating web
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on web design
+- 🌱 I’m currently learning phyton, R, SQL
+- 💞️ I’m looking to collaborate on data analytic
 - 📫 How to reach me on instagram @lintangiqhtiar
 
 <!---
